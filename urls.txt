@@ -1,0 +1,5 @@
+How to control task scheduler
+https://dzone.com/articles/create-and-run-scheduled-task
+
+CronTab
+https://stackabuse.com/scheduling-jobs-with-python-crontab/
